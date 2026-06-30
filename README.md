@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 [![Dataset](https://img.shields.io/badge/Dataset-OpenNeuro%20ds004504-orange.svg)](https://openneuro.org/datasets/ds004504/versions/1.0.6)
 
-> **B.Tech Major Project** — Department of Computer Engineering, Jamia Millia Islamia, New Delhi (2025–26)
+
 
 ---
 
