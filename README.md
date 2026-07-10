@@ -1,4 +1,4 @@
-# AI-powered-Alzheimer-s-Disease-Detection
+# AI-powered-Alzheimers-Disease-Detection
 
 # 🧠 AI-Powered Alzheimer's Disease Detection using Resting-State EEG & Graph Signal Processing
 
