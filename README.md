@@ -245,6 +245,3 @@ This project is released under the [MIT License](LICENSE). The OpenNeuro ds00450
 
 ---
 
-## 🙏 Acknowledgements
-
-We thank the OpenNeuro platform and contributors of the ds004504 dataset, the PyGSP development team, and the Department of Computer Engineering at Jamia Millia Islamia for computational resources and guidance.
